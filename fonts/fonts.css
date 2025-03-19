@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Inter-Light';
+    src: url('./Inter-4/extras/woff-hinted/Inter-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+  @font-face {
+    font-family: 'Inter-Bold';
+    src: url('./Inter-4/extras/woff-hinted/Inter-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Inter-Black';
+    src: url('./Inter-4/extras/woff-hinted/Inter-Black.woff2') format('woff2');
+    font-weight: 900;
+  }

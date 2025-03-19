@@ -1,0 +1,9 @@
+.cover__content {
+    position: relative;
+    z-index: 3;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    justify-content: center;
+    width: 100%;
+}

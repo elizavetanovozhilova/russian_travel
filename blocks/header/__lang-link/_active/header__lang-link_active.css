@@ -1,0 +1,5 @@
+.header__lang-link.header__lang-link_active {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+}
