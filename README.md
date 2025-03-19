@@ -20,4 +20,4 @@
 - **GitHub Pages** — для хостинга и демонстрации проекта.
 
 ## Ссылка на GitHub Pages
-Проект доступен для просмотра по ссылке: [GitHub Pages](https://ваш-username.github.io/ваш-репозиторий/)
+Проект доступен для просмотра по ссылке: [GitHub Pages](https://elizavetanovozhilova.github.io/russian_travel/)
